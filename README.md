@@ -1,4 +1,4 @@
-# prince-oduro
+# Interview Test
 
 Build a page using the [SWAPI API](https://swapi.co/documentation) to show the list of Star Wars films.
 
